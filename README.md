@@ -16,7 +16,7 @@
     
     3.2  write Advanced System Settings and press on link  
   
-    3.3  go to environment variables -> System variables : choose **path** -> edit -> new 
+    3.3  go to environment variables -> System variables : choose **line number** -> edit -> new 
     
     
 * Display **line number**.
