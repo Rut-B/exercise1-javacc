@@ -11,7 +11,8 @@
     3.1  go to: Power User Task Menu,
     
     
-    [![Screen Shot](set2.png)
+    [![Screen Shot](user menu.jpeg)
+    
     
     3.2  write Advanced System Settings and press on link  
   
