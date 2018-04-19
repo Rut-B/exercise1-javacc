@@ -18,5 +18,7 @@
   
 4. in ordet to run javac *.java command you have to set another path - C:\Program Files\Java\jdk1.8.0_171\bin -in same path as above .
 
-if this command inst runnig, you have to install jdk1, so go to : http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html and dowlwod jdk to your computer (windwos )
+if this command ins't runnig, you have to install jdk,
+
+so go to : http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html and dowlwod jdk to your computer (windwos )
 
