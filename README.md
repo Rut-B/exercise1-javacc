@@ -18,10 +18,8 @@
   
     3.3  go to environment variables -> System variable : choose path -> edit -> new and now past your path (C:\javacc-5.0\javacc-5.0\bin)
   
-     ![](https://github.com/Rut-B/exercise1-javacc/blob/master/setting.png)
-  
-  
-     ![](https://github.com/Rut-B/exercise1-javacc/blob/master/set2.png)
+![](https://github.com/Rut-B/exercise1-javacc/blob/master/setting.png)
+![](https://github.com/Rut-B/exercise1-javacc/blob/master/set2.png)
   
     3.4  close the terminal and now you can runnig javacc in your cmd,
   
