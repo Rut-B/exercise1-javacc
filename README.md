@@ -18,7 +18,7 @@
   
     3.3  go to environment variables -> System variable : choose path -> edit -> new and now past your path (C:\javacc-5.0\javacc-5.0\bin)
   
-     [![Screen Shot]()
+     [![Screen Shot](https://github.com/Rut-B/exercise1-javacc/blob/master/setting.png)
   
   
      [![Screen Shot]()
