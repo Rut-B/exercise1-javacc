@@ -11,17 +11,17 @@
     3.1  go to: Power User Task Menu,
     
     
-    [![](https://github.com/Rut-B/exercise1-javacc/blob/master/user%20menu.jpg)
+    ![](https://github.com/Rut-B/exercise1-javacc/blob/master/user%20menu.jpg)
     
     
     3.2  write Advanced System Settings and press on link  
   
     3.3  go to environment variables -> System variable : choose path -> edit -> new and now past your path (C:\javacc-5.0\javacc-5.0\bin)
   
-     [![](https://github.com/Rut-B/exercise1-javacc/blob/master/setting.png)
+     ![](https://github.com/Rut-B/exercise1-javacc/blob/master/setting.png)
   
   
-     [![](https://github.com/Rut-B/exercise1-javacc/blob/master/set2.png)
+     ![](https://github.com/Rut-B/exercise1-javacc/blob/master/set2.png)
   
     3.4  close the terminal and now you can runnig javacc in your cmd,
   
