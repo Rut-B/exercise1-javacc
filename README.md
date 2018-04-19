@@ -9,10 +9,18 @@
 3. now you have to set path (you need to know full path of javacc) :
 
     3.1  go to: Power User Task Menu,
+    
+    
+    [![Screen Shot]()
     
     3.2  write Advanced System Settings and press on link  
   
     3.3  go to environment variables -> System variable : choose path -> edit -> new and now past your path (C:\javacc-5.0\javacc-5.0\bin)
+  
+     [![Screen Shot]()
+  
+  
+     [![Screen Shot]()
   
     3.4  close the terminal and now you can runnig javacc in your cmd,
   
