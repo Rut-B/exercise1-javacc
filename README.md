@@ -11,7 +11,7 @@
     3.1  go to: Power User Task Menu,
     
     
-    [![Screen Shot](user menu.jpeg)
+    [![Screen Shot](https://github.com/Rut-B/exercise1-javacc/blob/master/user%20menu.jpg)
     
     
     3.2  write Advanced System Settings and press on link  
