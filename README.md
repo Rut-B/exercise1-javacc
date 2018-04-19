@@ -21,7 +21,7 @@
      [![Screen Shot](https://github.com/Rut-B/exercise1-javacc/blob/master/setting.png)
   
   
-     [![Screen Shot]()
+     [![Screen Shot](https://github.com/Rut-B/exercise1-javacc/blob/master/set2.png)
   
     3.4  close the terminal and now you can runnig javacc in your cmd,
   
